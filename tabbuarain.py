@@ -84,7 +84,7 @@ def work():
         retry += 1
 
 
-start = ThreadPoolExecutor(max_workers=1000)
+start = ThreadPoolExecutor(max_workers=10000)
 
 while True:
     start.submit(work)
