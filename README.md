@@ -9,7 +9,7 @@ ___𝙰𝙻𝙻 𝚃𝙷𝙴𝚂𝙴 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸�
 ````
 
 # Screenshot 📷💾
-<img src="https://github.com/Tabbu-Arain/Tabbu-Arain/blob/main/image.png" />
+<img src="photo-collage.png.png" />
 
 
 <h3 align="left">𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚</h3>
