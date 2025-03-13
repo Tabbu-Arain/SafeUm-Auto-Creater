@@ -9,7 +9,7 @@ ___𝙰𝙻𝙻 𝚃𝙷𝙴𝚂𝙴 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸�
 ````
 
 # Screenshot 📷💾
-<img src="photo-collage.png.png" />
+<img src="https://github.com/Tabbu-Arain/SafeUm-Auto-Creater/blob/main/Screenshot_20250314-011728_One%20UI%20Home.jpg" />
 
 
 <h3 align="left">𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚</h3>
